@@ -30,8 +30,8 @@ const aboutMe = {
 ```
 
 ## Get in touch
-- Linkedin: https://linkedin.com/in/yosama
-- Twitter: https://twitter.com/yossamac
-- Personal site: https://yosamac.com
+- [Linkedin](https://linkedin.com/in/yosama)
+- [Twitter](https://twitter.com/yossamac)
+- [Personal site](https://yosamac.com)
 
 
