@@ -1,8 +1,6 @@
-### Hi there 👋 
-I'm Yosnier Samon 
+### Hi, I'm Yosnier Samon 👋🏾‍💻
 
 Backend Engineer at [Mediktiv](https://www.mediktiv.com/welcome)
-
 
 ```javascript
 const aboutMe = {
@@ -28,6 +26,7 @@ const aboutMe = {
    hobbies:["Programming", "Play basketball", "Fishing"]
 };
 ```
+
 
 ## Get in touch
 - [Linkedin](https://linkedin.com/in/yosama)
