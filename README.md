@@ -1,6 +1,6 @@
 ### Hi, I'm Yosnier Samon 👋🏾‍💻
 
-Backend Engineer at [Mediktiv](https://www.mediktiv.com/welcome)
+Backend Engineer at [Immfly](https://www.immfly.com)
 
 ```javascript
 const aboutMe = {
