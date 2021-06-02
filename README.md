@@ -29,7 +29,7 @@ const aboutMe = {
 
 
 ## Get in touch
-- [Linkedin](https://linkedin.com/in/yosama)
+- [Linkedin](https://linkedin.com/in/yosamac)
 - [Twitter](https://twitter.com/yossamac)
 - [Personal site](https://yosamac.com)
 
