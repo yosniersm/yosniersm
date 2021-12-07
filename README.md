@@ -1,6 +1,6 @@
 ### Hi, I'm Yosnier Samon 👋🏾‍💻
 
-Backend Engineer at [Immfly](https://www.immfly.com)
+Software Engineer at [OSP](https://www.osp.de)
 
 ```javascript
 const aboutMe = {
@@ -12,8 +12,10 @@ const aboutMe = {
       },
       backEnd: {
          js: ["TypeScript", "Node", "NestJS", "Hapi", "Express"],
-         python: ["Django"]
+         python: ["Django"],
+         java: ["Spring", "Spring Boot", "Spring Cloud"]
       },
+      cloud: ["AWS", "Azure"],
       devOps: ["Kubernetes", "Rancher", "Docker🐳", "k3s" "Containerd", "Nginx" "AWS", "S3", "Route53"],
       databases: ["DynamoDB", "MongoDB", "ElasticSearch", "PostgreSQL", "SQLite", "MySQL", "SQLServer"],
       mobile: ["Android", "IOS"],
@@ -22,7 +24,7 @@ const aboutMe = {
       architecture: ["Microservice Architecture"],
       misc: ["gRPC", "RPi"]
    },
-   currently: "Learning Rust language",
+   currently: "Learning Go language",
    hobbies:["Programming", "Play basketball", "Fishing"]
 };
 ```
