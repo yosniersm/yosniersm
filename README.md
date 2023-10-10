@@ -8,18 +8,18 @@ const aboutMe = {
    code: ["Javascript", "Typescript", "Python", "Java", "Objective-C"],
    technologies: {
       frontEnd: {
-         js: ["Angular","Nunjucks"]
+         js: ["Angular", "Nunjucks", Vue, Vite, Vitest]
       },
       backEnd: {
          js: ["TypeScript", "Node", "NestJS", "Hapi", "Express"],
          python: ["Django"],
-         java: ["Spring", "Spring Boot", "Spring Cloud"]
+         java: ["Spring", "Spring Boot", "Spring Cloud", Micronaut, Reactor]
       },
-      cloud: ["AWS", "Azure"],
-      devOps: ["Kubernetes", "Rancher", "Docker🐳", "k3s" "Containerd", "Nginx" "AWS", "S3", "Route53"],
+      cloud: ["AWS", "Azure", GCP],
+      devOps: ["Cloud run", Log Explorer, Cloud SQL, "Kubernetes", "Rancher", "Docker🐳", "k3s" "Containerd", "Nginx" "AWS", "S3", "Route53"],
       databases: ["DynamoDB", "MongoDB", "ElasticSearch", "PostgreSQL", "SQLite", "MySQL", "SQLServer"],
       mobile: ["Android", "IOS"],
-      ides: ["PyCharm", "Android Studio", "XCode", "Eclipe"],
+      ides: ["IntelliJ", "PyCharm", "Android Studio", "XCode", "Eclipe"],
       editors: ["VS Code", "Vim"],
       architecture: ["Microservice Architecture"],
       misc: ["gRPC", "RPi"]
@@ -33,6 +33,6 @@ const aboutMe = {
 ## Get in touch
 - [Linkedin](https://linkedin.com/in/yosamac)
 - [Twitter](https://twitter.com/yossamac)
-- [Personal site](https://yosamac.com)
+  
 
 
