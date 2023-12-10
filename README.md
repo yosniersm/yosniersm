@@ -9,30 +9,31 @@ const aboutMe = {
    code: ["Javascript", "Typescript", "Python", "Java", "Objective-C"],
    technologies: {
       frontEnd: {
-         js: ["Angular", "Nunjucks", "Vue", "Vite", "Vitest"]
+         js: ["Vue", "Vite", "Vitest", "Angular", "Nunjucks"]
       },
       backEnd: {
          js: ["TypeScript", "Node", "NestJS", "Hapi", "Express"],
          python: ["Django"],
-         java: ["Spring", "Spring Boot", "Spring Cloud", "Micronaut", "Reactor"]
+         java: ["Micronaut", "Reactor", "Spring", "Spring Boot", "Spring Cloud"]
       },
-      cloud: ["AWS", "Azure", "GCP"],
-      devOps: ["Cloud run", "Log Explorer", "Cloud SQL", "Kubernetes", "Rancher", "Docker🐳", "k3s" "Containerd", "Nginx" "AWS", "S3", "Route53"],
-      databases: ["DynamoDB", "MongoDB", "ElasticSearch", "PostgreSQL", "SQLite", "MySQL", "SQLServer"],
-      mobile: ["Android", "IOS"],
+      cloud: ["GCP", "AWS", "Azure"],
+      devOps: ["Terraform", "Cloud run", "Log Explorer", "Cloud SQL", "Kubernetes", "Rancher", "Docker🐳", "k3s" "Containerd", "Nginx" "AWS", "S3", "Route53"],
+      databases: ["PostgreSQL", "DynamoDB", "MongoDB", "ElasticSearch", "SQLite", "MySQL", "SQLServer"],
+      mobile: ["Android", "IOS", Flutter],
       ides: ["IntelliJ", "PyCharm", "Android Studio", "XCode", "Eclipe"],
       editors: ["VS Code", "Vim"],
-      architecture: ["Microservice Architecture"],
-      misc: ["Kafka", "gRPC", "RPi"]
+      architectures: [ "Event-Driven", "Microservice", "Client-Server", "Layered N-tier" ],
+      enthusiast: ["Functional Programming", "IoT"],
+      misc: ["Kafka", "RabbitMQ" "gRPC", "RPi"]
    },
    currently: "Learning Go language",
-   hobbies:["Programming", "Play basketball", "Fishing"]
+   hobbies:["Programming", "Playing basketball", "Fishing"]
 };
 ```
 
 
 ## Get in touch
-- [Linkedin](https://linkedin.com/in/yosamac)
+- [Linkedin](https://linkedin.com/in/yosniersm)
 - [Twitter](https://twitter.com/yossamac)
   
 
