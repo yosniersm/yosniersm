@@ -19,7 +19,7 @@ const aboutMe = {
       cloud: ["GCP", "AWS", "Azure"],
       devOps: ["Terraform", "Cloud run", "Log Explorer", "Cloud SQL", "Kubernetes", "Rancher", "Docker🐳", "k3s" "Containerd", "Nginx" "AWS", "S3", "Route53"],
       databases: ["PostgreSQL", "DynamoDB", "MongoDB", "ElasticSearch", "SQLite", "MySQL", "SQLServer"],
-      mobile: ["Android", "IOS", Flutter],
+      mobile: ["Flutter", "Android", "IOS"],
       ides: ["IntelliJ", "PyCharm", "Android Studio", "XCode", "Eclipe"],
       editors: ["VS Code", "Vim"],
       architectures: [ "Event-Driven", "Microservice", "Client-Server", "Layered N-tier" ],
