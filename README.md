@@ -34,7 +34,7 @@ const aboutMe = {
 
 ## Get in touch
 - [Linkedin](https://linkedin.com/in/yosniersm)
-- [Twitter](https://twitter.com/yossamac)
+- [X](https://twitter.com/yosniersm)
   
 
 
